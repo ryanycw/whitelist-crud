@@ -17,6 +17,7 @@
     "aws-sdk": "^2.1115.0",
     "dotenv": "^16.0.0",
     "eslint": "8.13.0",
-    "eslint-config-next": "12.1.5"
+    "eslint-config-next": "12.1.5",
+    "rxjs": "^7.5.5"
   }
 }

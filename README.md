@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Whitelist CRUD
+
+This is a WIP [Next.js](https://nextjs.org/) practice, where NFT project manager can organize the whitelist and signaures.
 
 ## Getting Started
 
